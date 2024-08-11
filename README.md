@@ -9,3 +9,6 @@ pie
     "白丝" : 30
     "瑟图" : 20
 ```
+
+![image](https://github.com/user-attachments/assets/076ba198-a310-4435-a48e-875c56df4152)
+
